@@ -1,4 +1,4 @@
-# Digi-Company (New Version ) #
+# Digi-Company (New Version) #
 **User Manual for Clients** 
 
 ***New Features List-*** 
