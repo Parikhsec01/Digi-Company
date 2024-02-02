@@ -21,7 +21,7 @@ Scan report on priority
 scanning report 
 
 
-
+How to use Company Hide or Delete 
 **Hide company: - Only the Super Admin can Delete the Company** 
 Step:- 
 1. Login to the SuperAdmin
