@@ -20,11 +20,13 @@ Dashboard changes for specific companies
 Scan report on priority
 scanning report 
 
-
+***Feature:- 1***
 **How to use Company Hide or Delete** 
 
 
 **Hide company: - Only the Super Admin can Delete the Company** 
+
+
 Step:- 
 1. Login to the SuperAdmin
 2. Select the Company and enter the password 
@@ -36,6 +38,8 @@ Step:-
 ![Company Hide or Delete](https://github.com/Parikhsec01/Digi-Company/assets/158557834/05f783d0-bce9-4f1b-b149-a943ca04d899)
 
 
+
+***Feature:- 2***
 
 
 **How will NewSuperAdmin Work?**
