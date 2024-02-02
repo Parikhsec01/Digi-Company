@@ -63,6 +63,16 @@ Description: -
 
 
 
+Description: -
+1. Login to the Dashboard page 
+2. Go to the "Master" module & select the "User" sub-module
+3. select the user for delete or hide -> In the Action field you need to de-activate the user first
+4. Then you can see the cross icon button for Delete or Hide the user 
+
+
+![User Hide or Delete](https://github.com/Parikhsec01/Digi-Company/assets/158557834/482494d7-62a0-4ee4-b5ae-b8aef88258ba)
+
+
 
 
 
