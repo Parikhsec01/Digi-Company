@@ -93,6 +93,7 @@ Under the Admin module, we have the sub-module "Audit trail & database backup"
 We were maintaining the User history records such as "Login Time" and "All"
 
 
+[Audit Trail Images.xlsx](https://github.com/Parikhsec01/Digi-Company/files/14137647/Audit.Trail.Images.xlsx)
 
 
 
