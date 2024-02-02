@@ -38,6 +38,12 @@ Step:-
 
 **How will NewSuperAdmin Work?**
 
+Description: -
+1. NewSuperAdmin can log in to all companies
+2. If the user wants to change the password of the NewSuperAdmin then the user can change it.
+3. Super Admin can create only Admin Users 
+
+![NewSuperAdmin](https://github.com/Parikhsec01/Digi-Company/assets/158557834/8fcd08d8-f5d4-4086-b2f0-ffd022436f31)
 
 
 
