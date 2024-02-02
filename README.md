@@ -2,7 +2,7 @@
 **User Manual for Clients** 
 
 ***New Features-*** 
-
+Item 1Item 2Item 3Item 4
 Company Hide 
 New SuperAdmin  
 User Focus
