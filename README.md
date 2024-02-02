@@ -85,6 +85,17 @@ Description: -
 
 
 
+Description: -
+
+Login to the Dashboard page
+Select the Admin module
+Under the Admin module, we have the sub-module "Audit trail & database backup"
+We were maintaining the User history records such as "Login Time" and "All"
+
+
+Audit Trail Images.xlsx
+
+
 
 
 
