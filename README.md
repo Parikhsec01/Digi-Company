@@ -52,6 +52,12 @@ Description: -
 **How to Identified the User Focus?**
 
 
+Description: -
+1. Whenever the user can enter the login page, the Email address/username field is auto-focus
+
+![User Focus](https://github.com/Parikhsec01/Digi-Company/assets/158557834/cf6e468e-24a0-406c-b7f4-51c06cee3079)
+
+
 
 
 
