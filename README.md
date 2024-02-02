@@ -4,12 +4,19 @@
 ***New Features-*** 
 
 Company Hide 
+
 New SuperAdmin  
+
 User Focus
+
 User Hide or Delete
+
 Audit Trail Report
+
 AutoBookmark
+
 UPSI Details list- Select Export Columns
+
 UPSI Bulk Data
 Agenda Search
 GovEva File Manager-  should be shown company-specific
