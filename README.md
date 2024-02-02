@@ -21,6 +21,7 @@ Scan report on priority
 scanning report 
 
 ***Feature:- 1***
+
 **How to use Company Hide or Delete** 
 
 
@@ -41,7 +42,6 @@ Step:-
 
 ***Feature:- 2***
 
-
 **How will NewSuperAdmin Work?**
 
 Description: -
@@ -52,6 +52,7 @@ Description: -
 ![NewSuperAdmin](https://github.com/Parikhsec01/Digi-Company/assets/158557834/8fcd08d8-f5d4-4086-b2f0-ffd022436f31)
 
 
+***Feature:- 3***
 
 **How to Identified the User Focus?**
 
@@ -62,9 +63,9 @@ Description: -
 ![User Focus](https://github.com/Parikhsec01/Digi-Company/assets/158557834/cf6e468e-24a0-406c-b7f4-51c06cee3079)
 
 
+***Feature:- 4***
 
 **How to Hide or Delete the Others User?**
-
 
 
 Description: -
