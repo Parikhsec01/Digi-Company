@@ -114,6 +114,10 @@ We were maintaining the User history records such as "Login Time" and "All"
 [Audit Trail Images.xlsx](https://github.com/Parikhsec01/Digi-Company/files/14137647/Audit.Trail.Images.xlsx)
 
 
+[New Feature 02-02-2024.xlsx](https://github.com/Parikhsec01/Digi-Company/files/14138424/New.Feature.02-02-2024.xlsx)
+
+
+
 
 
 
