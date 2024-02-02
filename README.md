@@ -1,8 +1,8 @@
-# Digi-Company (New Version )
+# Digi-Company (New Version ) #
 User Manual for Clients 
 
 New Features- 
-item1 
+
 Company Hide 
 New SuperAdmin  
 User Focus
